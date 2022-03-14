@@ -13,7 +13,7 @@
 
 - Conocer el lenguaje Prolog empleado en Inteligencia Artificial.
 - Prolog se aplica principalmente para el manejo de símbolos y conceptos abstractos, los problemas son poco matématicos.
-- Prolog requiere que se le indique qué conocimiento se requiere para resolver el problema, en lugar de indicarle la receta. 
+- Prolog requiere que se le indique qué conocimiento debe utilizar para resolver el problema, en lugar de indicarle la receta. 
 - Prolog es el único lenguaje de lógica.
 
 
@@ -22,7 +22,7 @@
 
 ## Información general
 
-Este proyecto es un ejemplo de traducción de un programa en JAVA a un programe en Prolog. El programa contiene los **módulos necesarios para realizar operaciones simbólicas con polinomios**.
+Este proyecto es un ejemplo de traducción de un programa en JAVA a un programa en Prolog. El programa contiene los **módulos necesarios para realizar operaciones simbólicas con polinomios**.
 
 
 ## Operaciones
@@ -35,7 +35,8 @@ Este proyecto es un ejemplo de traducción de un programa en JAVA a un programe 
 - **Evaluate**: regresa el resultado de evaluación con método Horner's.
 - **Differentiate**: regresa la derivada de un polinomio.
 - **toString**: regresa la representación del polinomio.
-![Upload comparación](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/plus.png)
+
+![Upload comparación](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/fotoComparaci%C3%B3n.png)
 
 
 
