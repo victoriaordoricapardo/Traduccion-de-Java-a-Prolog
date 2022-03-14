@@ -17,7 +17,7 @@
 - Prolog es el único lenguaje de lógica.
 
 
-![Upload comparación](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/DiagramaLenguajes.png)
+![Upload diagrama](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/DiagramaLenguajes.png)
 
 
 ## Información general
