@@ -11,10 +11,9 @@
 
 ## Objetivo
 
-- Conocer el lenguaje Prolog empleado en Inteligencia Artificial.
+- Conocer el lenguaje Prolog empleado en **Inteligencia Artificial**.
 - Prolog se aplica principalmente para el manejo de símbolos y conceptos abstractos, los problemas son poco matématicos.
 - Prolog requiere que se le indique qué conocimiento debe utilizar para resolver el problema, en lugar de indicarle la receta. 
-- Prolog es el único lenguaje de lógica.
 
 
 ![Upload diagrama](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/DiagramaLenguajes.png)
