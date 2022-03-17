@@ -35,7 +35,7 @@ Este proyecto es un ejemplo de traducción de un programa en JAVA a un programa 
 - **Differentiate**: regresa la derivada de un polinomio.
 - **toString**: regresa la representación del polinomio.
 
-![Upload comparación](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/fotoComparaci%C3%B3n.png)
+![Upload comparación](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/plus.png)
 
 
 
