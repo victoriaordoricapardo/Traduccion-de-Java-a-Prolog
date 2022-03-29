@@ -1,19 +1,22 @@
 # Traducción de JAVA a Prolog
-## Cambiar de un lenguaje dirigido a objetos a un lenguaje de razonamiento lógico.
+Programa que traduce de Java a Prolog.
+
+## Información general
+Este proyecto es un ejemplo de traducción de un programa en JAVA a un programa en Prolog. El programa contiene los **módulos necesarios para realizar operaciones simbólicas con polinomios**.
+
+Es un programa de introducción al lenguaje de Prolog que es menos utilizado que el lenguaje de programación Java.
 
 ## Tabla de contenido
 
-- [Objetivo](#Objetivo)
 - [Información general](#información-general)
+- [Objetivo](#Objetivo)
 - [Operaciones](#operaciones) 
 - [Funcionalidad](#Funcionalidad)
 - [Bibliografía](#bibliografía)
 
 ## Objetivo
 
-- Conocer el lenguaje Prolog empleado en **Inteligencia Artificial**.
-- Prolog se aplica principalmente para el manejo de símbolos y conceptos abstractos, los problemas son poco matématicos.
-- Prolog requiere que se le indique qué conocimiento debe utilizar para resolver el problema, en lugar de indicarle la receta. 
+El objetivo del repositorio es conocer el lenguaje Prolog empleado en **Inteligencia Artificial**. Prolog se aplica principalmente para el manejo de símbolos y conceptos abstractos, en donde los problemas son poco matématicos.Prolog requiere que se le indique qué conocimiento debe utilizar para resolver el problema, en lugar de indicarle la receta. 
 
 
 ![Upload diagrama](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/DiagramaLenguajes.png)
@@ -47,7 +50,7 @@ El programa en Prolog debe:
 
 ![Upload comparación](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/fotoComparación.png)
 
-## Bibliografía
+## Referencia
 Código adaptado de Sedgewick & Wayne: http://introcs.cs.princeton.edu/java/92symbolic/Polynomial.java.html
 
 
