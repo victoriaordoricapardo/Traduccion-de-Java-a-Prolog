@@ -18,7 +18,7 @@ Es un programa de introducción al lenguaje de Prolog que es menos utilizado que
 El objetivo del repositorio es conocer el lenguaje Prolog empleado en **Inteligencia Artificial**. Prolog se aplica principalmente para el manejo de símbolos y conceptos abstractos, en donde los problemas son poco matématicos. Prolog requiere que se le indique qué conocimiento debe utilizar para resolver el problema, en lugar de indicarle la receta. 
 
 
-![Upload diagrama](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/DiagramaLenguajes.png)
+![Upload diagrama]([https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/DiagramaLenguajes.png](https://github.com/victoriaordoricapardo/Traduccion-de-Java-a-Prolog/blob/master/Captura%20de%20Pantalla%202022-05-25%20a%20la(s)%2016.01.42.png))
 
 ## Funcionalidad
 El programa en Prolog debe:
